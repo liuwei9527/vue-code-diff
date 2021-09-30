@@ -2866,7 +2866,6 @@ var diff2html_min_update = injectStylesIntoStyleTag_default()(diff2html_min/* de
         matching: 'lines',
         renderNothingWhenEmpty: renderNothingWhenEmpty
       });
-
       if(flag) {
         outStr[0]['blocks'][0]['lines'].splice(0,1)
         outStr[0]['blocks'][0]['lines'].splice(0,1)
